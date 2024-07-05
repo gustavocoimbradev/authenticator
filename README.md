@@ -7,4 +7,4 @@
 
 "My Authentication" is a simple example of how to register and authenticate an user using React Native with MongoDB.
 
-![image](https://user-images.githubusercontent.com/115879524/225163093-48bf3788-8d16-4d26-ab00-31e7a4cf271d.png)
+![image](https://github.com/gustavocoimbradev/my-authetication/assets/135629152/ab41902e-27a7-4979-adf4-a212e1012ce6)
